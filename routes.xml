@@ -1,0 +1,173 @@
+<routes><route color="ff00ff" latMax="40.5277301" latMin="40.49957" lonMax="-74.44824" lonMin="-74.46618" oppositeColor="ffffff" tag="a" title="A">
+<stop lat="40.49957" lon="-74.44824" stopId="1055" tag="scott" title="Scott Hall" />
+<stop lat="40.5040199" lon="-74.4490599" stopId="1001" tag="stuactcntr" title="Student Activities Center" />
+<stop lat="40.51514" lon="-74.4619198" stopId="1071" tag="lot48a" title="Visitor Center" />
+<stop lat="40.51442" lon="-74.46618" stopId="1024" tag="stadium_a" title="Stadium" />
+<stop lat="40.5186799" lon="-74.4614699" stopId="1003" tag="werblinback" title="Werblin Back Entrance" />
+<stop lat="40.5219199" lon="-74.4632599" stopId="1004" tag="hillw" title="Hill Center" />
+<stop lat="40.5239347" lon="-74.4642238" stopId="1005" tag="science" title="Science Building" />
+<stop lat="40.5261998" lon="-74.4658297" stopId="1006" tag="libofsciw" title="Library of Science" />
+<stop lat="40.52583" lon="-74.45872" stopId="1007" tag="buschse" title="Busch Suites" />
+<stop lat="40.5236" lon="-74.45806" stopId="1008" tag="busch_a" title="Busch Student Center" />
+<stop lat="40.52181" lon="-74.4567399" stopId="1009" tag="buells" title="Buell Apartments" />
+<stop lat="40.51871" lon="-74.4599799" stopId="1022" tag="werblinm" title="Werblin Main Entrance" />
+<stop lat="40.5034221" lon="-74.4521521" shortTitle="College Student Center" stopId="1062" tag="rutgerss_a" title="College Avenue Student Center" />
+</route>
+<route color="ffcc00" latMax="40.5277304" latMin="40.518677" lonMax="-74.4335688" lonMin="-74.4658297" oppositeColor="000000" tag="b" title="B">
+<stop lat="40.5198612" lon="-74.4335688" stopId="1030" tag="quads" title="Quads" />
+<stop lat="40.518677" lon="-74.4614698" stopId="1003" tag="werblinback" title="Werblin Back Entrance" />
+<stop lat="40.52192" lon="-74.46326" stopId="1004" tag="hillw" title="Hill Center" />
+<stop lat="40.5239328" lon="-74.464225" stopId="1005" tag="science" title="Science Building" />
+<stop lat="40.5261998" lon="-74.4658297" stopId="1006" tag="libofsci" title="Library of Science" />
+<stop lat="40.52583" lon="-74.45872" stopId="1007" tag="buschse" title="Busch Suites" />
+<stop lat="40.5236" lon="-74.45806" stopId="1008" tag="busch_a" title="Busch Student Center" />
+<stop lat="40.5251062" lon="-74.4385837" stopId="1028" tag="beck" title="Livingston Plaza" />
+<stop lat="40.5243131" lon="-74.4363968" stopId="1029" tag="livingston_a" title="Livingston Student Center" />
+</route>
+<route color="00ffff" latMax="40.5235605" latMin="40.51442" lonMax="-74.46147" lonMin="-74.46618" oppositeColor="000000" tag="c" title="C">
+<stop lat="40.51868" lon="-74.46147" stopId="1003" tag="werblinback" title="Werblin Back Entrance" />
+<stop lat="40.5219497" lon="-74.4632495" stopId="1004" tag="hillw" title="Hill Center" />
+<stop lat="40.5235605" lon="-74.4651893" shortTitle="Allison Classrooms" stopId="1041" tag="allison" title="Allison Road Classrooms" />
+<stop lat="40.5219024" lon="-74.4632745" stopId="1066" tag="hilln" title="Hill Center" />
+<stop lat="40.51442" lon="-74.46618" stopId="1024" tag="stadium_a" title="Stadium" />
+</route>
+<route color="ff6600" latMax="40.5040199" latMin="40.47891" lonMax="-74.4287199" lonMin="-74.45215" oppositeColor="000000" tag="ee" title="EE">
+<stop lat="40.4995732" lon="-74.4482433" stopId="1055" tag="scott" title="Scott Hall" />
+<stop lat="40.4981979" lon="-74.445116" stopId="1010" tag="traine" title="Train Station" />
+<stop lat="40.495062" lon="-74.443997" shortTitle="Paterson" stopId="1067" tag="patersons" title="Paterson Street" />
+<stop lat="40.4918304" lon="-74.4430403" stopId="1043" tag="rockoff" title="Rockoff Hall" />
+<stop lat="40.4870501" lon="-74.4398701" stopId="1044" tag="pubsafs" title="Public Safety Building South" />
+<stop lat="40.482988" lon="-74.437542" stopId="1011" tag="redoak_a" title="Red Oak Lane" />
+<stop lat="40.48127" lon="-74.43629" stopId="1047" tag="lipman" title="Lipman Hall" />
+<stop lat="40.47891" lon="-74.43571" stopId="1012" tag="foodsci" title="Food Sciences Building" />
+<stop lat="40.4799995" lon="-74.4325226" shortTitle="Biel" stopId="1048" tag="biel" title="Biel Road" />
+<stop lat="40.4809499" lon="-74.4287199" stopId="1050" tag="henders" title="Henderson" />
+<stop lat="40.48304" lon="-74.4315999" stopId="1014" tag="katzenbach" title="Katzenbach" />
+<stop lat="40.48523" lon="-74.43194" stopId="1051" tag="gibbons" title="Gibbons" />
+<stop lat="40.4855099" lon="-74.4371999" stopId="1052" tag="college_a" title="College Hall" />
+<stop lat="40.4876259" lon="-74.4402073" stopId="1016" tag="pubsafn" title="Public Safety Building North" />
+<stop lat="40.4932471" lon="-74.4433992" shortTitle="Liberty" stopId="1053" tag="liberty" title="Liberty Street" />
+<stop lat="40.495286" lon="-74.443878" shortTitle="Paterson" stopId="1054" tag="patersonn" title="Paterson Street" />
+<stop lat="40.4974894" lon="-74.4444598" stopId="1060" tag="trainn_a" title="Train Station" />
+<stop lat="40.4997074" lon="-74.4450693" stopId="1017" tag="zimmerli" title="Zimmerli Arts Museum" />
+<stop lat="40.5040199" lon="-74.4490599" stopId="1001" tag="stuactcntr" title="Student Activities Center" />
+<stop lat="40.50342" lon="-74.45215" shortTitle="College Student Center" stopId="1062" tag="rutgerss_a" title="College Avenue Student Center" />
+</route>
+<route color="ff0000" latMax="40.5040199" latMin="40.47891" lonMax="-74.4287199" lonMin="-74.45215" oppositeColor="ffffff" tag="f" title="F">
+<stop lat="40.4995711" lon="-74.4482412" stopId="1055" tag="scott" title="Scott Hall" />
+<stop lat="40.487052" lon="-74.439872" stopId="1044" tag="pubsafs" title="Public Safety Building South" />
+<stop lat="40.48306" lon="-74.43746" stopId="1046" tag="redoak" title="Red Oak Lane" />
+<stop lat="40.48129" lon="-74.4362699" stopId="1047" tag="lipman" title="Lipman Hall" />
+<stop lat="40.47891" lon="-74.43571" stopId="1012" tag="foodsci" title="Food Sciences Building" />
+<stop lat="40.4799995" lon="-74.4325226" shortTitle="Biel" stopId="1048" tag="biel" title="Biel Road" />
+<stop lat="40.4809499" lon="-74.4287199" stopId="1050" tag="henders" title="Henderson" />
+<stop lat="40.48304" lon="-74.4315999" stopId="1014" tag="katzenbach" title="Katzenbach" />
+<stop lat="40.48523" lon="-74.43194" stopId="1051" tag="gibbons" title="Gibbons" />
+<stop lat="40.4855098" lon="-74.4371997" stopId="1052" tag="college_a" title="College Hall" />
+<stop lat="40.5040199" lon="-74.4490599" stopId="1001" tag="stuactcntr" title="Student Activities Center" />
+<stop lat="40.50342" lon="-74.45215" shortTitle="College Student Center" stopId="1062" tag="rutgerss_a" title="College Avenue Student Center" />
+</route>
+<route color="cc99ff" latMax="40.5251062" latMin="40.4981999" lonMax="-74.4335668" lonMin="-74.4521505" oppositeColor="000000" tag="lx" title="LX">
+<stop lat="40.5198634" lon="-74.4335668" stopId="1030" tag="quads" title="Quads" />
+<stop lat="40.5034205" lon="-74.4521505" shortTitle="College Student Center" stopId="1062" tag="rutgerss_a" title="College Avenue Student Center" />
+<stop lat="40.4995706" lon="-74.4482407" stopId="1055" tag="scott" title="Scott Hall" />
+<stop lat="40.4981999" lon="-74.44511" stopId="1010" tag="traine" title="Train Station" />
+<stop lat="40.5040185" lon="-74.4490572" stopId="1001" tag="stuactcntr" title="Student Activities Center" />
+<stop lat="40.5251062" lon="-74.4385837" stopId="1028" tag="beck" title="Livingston Plaza" />
+<stop lat="40.5243131" lon="-74.4363968" stopId="1029" tag="livingston_a" title="Livingston Student Center" />
+</route>
+<route color="800080" latMax="40.5236115" latMin="40.4812942" lonMax="-74.4362659" lonMin="-74.46519" oppositeColor="ffffff" tag="rexb" title="REX B">
+<stop lat="40.4812942" lon="-74.4362659" stopId="1047" tag="lipman" title="Lipman Hall" />
+<stop lat="40.4855087" lon="-74.4371977" stopId="1052" tag="college_a" title="College Hall" />
+<stop lat="40.49138" lon="-74.44264" stopId="1037" tag="newstree" title="Bravo Supermarket" />
+<stop lat="40.52194" lon="-74.46325" stopId="1004" tag="hillw" title="Hill Center" />
+<stop lat="40.5236115" lon="-74.4651274" shortTitle="Allison Classrooms" stopId="1036" tag="allison_a" title="Allison Road Classrooms" />
+<stop lat="40.5219009" lon="-74.4632822" stopId="1066" tag="hilln" title="Hill Center" />
+<stop lat="40.487053" lon="-74.4398722" stopId="1044" tag="pubsafs" title="Public Safety Building South" />
+<stop lat="40.491856" lon="-74.4430933" stopId="1043" tag="rockhall" title="Rockoff Hall" />
+<stop lat="40.48299" lon="-74.43754" stopId="1011" tag="redoak_a" title="Red Oak Lane" />
+</route>
+<route color="99ccff" latMax="40.5251062" latMin="40.4812942" lonMax="-74.4362659" lonMin="-74.4430933" oppositeColor="000000" tag="rexl" title="REX L">
+<stop lat="40.4812942" lon="-74.4362659" stopId="1047" tag="lipman" title="Lipman Hall" />
+<stop lat="40.4855087" lon="-74.4371977" stopId="1052" tag="college_a" title="College Hall" />
+<stop lat="40.49138" lon="-74.44264" stopId="1037" tag="newstree" title="Bravo Supermarket" />
+<stop lat="40.5251062" lon="-74.4385837" stopId="1028" tag="beck" title="Livingston Plaza" />
+<stop lat="40.5243131" lon="-74.4363968" stopId="1029" tag="livingston_a" title="Livingston Student Center" />
+<stop lat="40.487053" lon="-74.4398722" stopId="1044" tag="pubsafs" title="Public Safety Building South" />
+<stop lat="40.491856" lon="-74.4430933" stopId="1043" tag="rockhall" title="Rockoff Hall" />
+<stop lat="40.48299" lon="-74.43754" stopId="1011" tag="redoak_a" title="Red Oak Lane" />
+</route>
+<route color="993300" latMax="40.50617" latMin="40.494289" lonMax="-74.44512" lonMin="-74.4622299" oppositeColor="ffffff" shortTitle="NB 1 Shuttle" tag="w1" title="New Brunsquick 1 Shuttle">
+<stop lat="40.494289" lon="-74.449676" stopId="1070" tag="nursscho" title="Nursing School" />
+<stop lat="40.50617" lon="-74.4622299" stopId="1042" tag="colony" title="Colony House" />
+<stop lat="40.50342" lon="-74.45215" shortTitle="College Student Center" stopId="1062" tag="rutgerss_a" title="College Avenue Student Center" />
+<stop lat="40.49957" lon="-74.44824" stopId="1055" tag="scott" title="Scott Hall" />
+<stop lat="40.4981499" lon="-74.44525" stopId="1064" tag="traine_a" title="Train Station" />
+</route>
+<route color="ff99cc" latMax="40.50617" latMin="40.494289" lonMax="-74.4445099" lonMin="-74.4622299" oppositeColor="000000" shortTitle="NB 2 Shuttle" tag="w2" title="New Brunsquick 2 Shuttle">
+<stop lat="40.494289" lon="-74.449676" stopId="1070" tag="nursscho" title="Nursing School" />
+<stop lat="40.4976798" lon="-74.4445099" stopId="1010" tag="trainn" title="Train Station" />
+<stop lat="40.4997074" lon="-74.4450693" stopId="1017" tag="zimmerli" title="Zimmerli Arts Museum" />
+<stop lat="40.5040198" lon="-74.4490597" stopId="1001" tag="stuactcntr" title="Student Activities Center" />
+<stop lat="40.50342" lon="-74.45215" shortTitle="College Student Center" stopId="1062" tag="rutgerss_a" title="College Avenue Student Center" />
+<stop lat="40.50617" lon="-74.4622299" stopId="1042" tag="colony" title="Colony House" />
+<stop lat="40.4981499" lon="-74.44525" stopId="1064" tag="traine_a" title="Train Station" />
+</route>
+<route color="008080" latMax="40.5262" latMin="40.4789101" lonMax="-74.4287199" lonMin="-74.46583" oppositeColor="ffffff" tag="wknd1" title="Weekend 1">
+<stop lat="40.503222" lon="-74.4519619" shortTitle="College Student Center" stopId="1000" tag="rutgerss" title="College Avenue Student Center" />
+<stop lat="40.49957" lon="-74.44824" stopId="1055" tag="scott" title="Scott Hall" />
+<stop lat="40.4982" lon="-74.44511" stopId="1010" tag="traine" title="Train Station" />
+<stop lat="40.5039" lon="-74.44883" stopId="1001" tag="stuactcntr" title="Student Activities Center" />
+<stop lat="40.51514" lon="-74.46191" stopId="1071" tag="lot48a" title="Visitor Center" />
+<stop lat="40.5186799" lon="-74.4614699" stopId="1003" tag="werblinback" title="Werblin Back Entrance" />
+<stop lat="40.5219151" lon="-74.4632567" stopId="1004" tag="hillw" title="Hill Center" />
+<stop lat="40.523938" lon="-74.4642213" stopId="1005" tag="science" title="Science Building" />
+<stop lat="40.5262" lon="-74.46583" stopId="1006" tag="libofsciw" title="Library of Science" />
+<stop lat="40.5258314" lon="-74.4587244" stopId="1007" tag="buschse" title="Busch Suites" />
+<stop lat="40.5234" lon="-74.45796" stopId="1056" tag="busch" title="Busch Student Center" />
+<stop lat="40.5251062" lon="-74.4385837" stopId="1028" tag="beck" title="Livingston Plaza" />
+<stop lat="40.524" lon="-74.4366299" stopId="1058" tag="livingston" title="Livingston Student Center" />
+<stop lat="40.5198631" lon="-74.4335671" stopId="1030" tag="quads" title="Quads" />
+<stop lat="40.50383" lon="-74.44885" stopId="1001" tag="stuactcntrs" title="Student Activities Center" />
+<stop lat="40.4870546" lon="-74.4398732" stopId="1044" tag="pubsafs" title="Public Safety Building South" />
+<stop lat="40.4830599" lon="-74.43746" stopId="1046" tag="redoak" title="Red Oak Lane" />
+<stop lat="40.48129" lon="-74.4362699" stopId="1047" tag="lipman" title="Lipman Hall" />
+<stop lat="40.4789101" lon="-74.4357138" stopId="1012" tag="foodsci" title="Food Sciences Building" />
+<stop lat="40.4799997" lon="-74.4325217" shortTitle="Biel" stopId="1048" tag="biel" title="Biel Road" />
+<stop lat="40.4809499" lon="-74.4287199" stopId="1050" tag="henders" title="Henderson" />
+<stop lat="40.48304" lon="-74.4316" stopId="1014" tag="katzenbach" title="Katzenbach" />
+<stop lat="40.48523" lon="-74.43194" stopId="1051" tag="gibbons" title="Gibbons" />
+<stop lat="40.4858788" lon="-74.4379873" stopId="1015" tag="college" title="College Hall" />
+<stop lat="40.4876282" lon="-74.4402089" stopId="1016" tag="pubsafn" title="Public Safety Building North" />
+<stop lat="40.49325" lon="-74.4434" shortTitle="Liberty" stopId="1053" tag="liberty" title="Liberty Street" />
+<stop lat="40.495286" lon="-74.443878" shortTitle="Paterson" stopId="1054" tag="patersonn" title="Paterson Street" />
+<stop lat="40.49768" lon="-74.4445099" stopId="1010" tag="trainn" title="Train Station" />
+<stop lat="40.4996299" lon="-74.4450499" stopId="1017" tag="zimmerli_2" title="Zimmerli Arts Museum" />
+<stop lat="40.5039" lon="-74.44883" stopId="1061" tag="stuactcntrn_2" title="Student Activities Center" />
+</route>
+<route color="666699" latMax="40.5263006" latMin="40.4789101" lonMax="-74.4287199" lonMin="-74.4661712" oppositeColor="ffffff" tag="wknd2" title="Weekend 2">
+<stop lat="40.503222" lon="-74.4519619" shortTitle="College Student Center" stopId="1000" tag="rutgerss" title="College Avenue Student Center" />
+<stop lat="40.49957" lon="-74.44824" stopId="1055" tag="scott" title="Scott Hall" />
+<stop lat="40.498197" lon="-74.4451181" stopId="1010" tag="traine" title="Train Station" />
+<stop lat="40.4944548" lon="-74.4438612" shortTitle="Paterson" stopId="1067" tag="patersons" title="Paterson Street" />
+<stop lat="40.49184" lon="-74.44304" stopId="1043" tag="rockoff" title="Rockoff Hall" />
+<stop lat="40.4870538" lon="-74.4398734" stopId="1044" tag="pubsafs" title="Public Safety Building South" />
+<stop lat="40.4830599" lon="-74.43746" stopId="1046" tag="redoak" title="Red Oak Lane" />
+<stop lat="40.48129" lon="-74.4362699" stopId="1047" tag="lipman" title="Lipman Hall" />
+<stop lat="40.4789101" lon="-74.4357138" stopId="1012" tag="foodsci" title="Food Sciences Building" />
+<stop lat="40.4799997" lon="-74.4325217" shortTitle="Biel" stopId="1048" tag="biel" title="Biel Road" />
+<stop lat="40.4809499" lon="-74.4287199" stopId="1050" tag="henders" title="Henderson" />
+<stop lat="40.48304" lon="-74.4316" stopId="1014" tag="katzenbach" title="Katzenbach" />
+<stop lat="40.48523" lon="-74.43194" stopId="1051" tag="gibbons" title="Gibbons" />
+<stop lat="40.4858788" lon="-74.4379873" stopId="1015" tag="college" title="College Hall" />
+<stop lat="40.5039" lon="-74.44883" stopId="1001" tag="stuactcntrn" title="Student Activities Center" />
+<stop lat="40.5251062" lon="-74.4385837" stopId="1028" tag="beck" title="Livingston Plaza" />
+<stop lat="40.524" lon="-74.4366299" stopId="1058" tag="livingston" title="Livingston Student Center" />
+<stop lat="40.5198631" lon="-74.4335671" stopId="1030" tag="quads" title="Quads" />
+<stop lat="40.5234" lon="-74.45796" stopId="1056" tag="busch" title="Busch Student Center" />
+<stop lat="40.52588" lon="-74.45863" stopId="1023" tag="davidson" title="Davidson Hall" />
+<stop lat="40.5263006" lon="-74.4661712" stopId="1006" tag="libofsci" title="Library of Science" />
+<stop lat="40.52356" lon="-74.4651899" shortTitle="Allison Classrooms" stopId="1041" tag="allison" title="Allison Road Classrooms" />
+<stop lat="40.5219201" lon="-74.4632631" stopId="1004" tag="hilln" title="Hill Center" />
+</route>
+</routes>

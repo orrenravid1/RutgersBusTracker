@@ -1,0 +1,776 @@
+<route_predictions><route_prediction route="A" time="2019-03-04 21:02:40.289999"><predictions agencyTitle="Rutgers University" routeTag="a" routeTitle="A" stopTag="werblinm" stopTitle="Werblin Main Entrance">
+  <direction title="To College Avenue Student Center">
+  <prediction block="A06" dirTag="a_inbound" epochTime="1551751495435" isDeparture="false" minutes="2" seconds="139" vehicle="4186" />
+  <prediction block="A07" dirTag="a_inbound" epochTime="1551751583864" isDeparture="false" minutes="3" seconds="227" vehicle="1496" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="stadium_a" stopTitle="Stadium">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="lot48a" stopTitle="Visitor Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="scott" stopTitle="Scott Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="libofsciw" stopTitle="Library of Science">
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="a" routeTitle="A" stopTag="rutgerss_a" stopTitle="College Avenue Student Center">
+  <direction title="To College Avenue Student Center">
+  <prediction block="A06" dirTag="a_inbound" epochTime="1551751793565" isDeparture="false" minutes="7" seconds="437" vehicle="4186" />
+  <prediction block="A07" dirTag="a_inbound" epochTime="1551751881994" isDeparture="false" minutes="8" seconds="526" vehicle="1496" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="werblinback" stopTitle="Werblin Back Entrance">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="buschse" stopTitle="Busch Suites">
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="a" routeTitle="A" stopTag="buells" stopTitle="Buell Apartments">
+  <direction title="To College Avenue Student Center">
+  <prediction block="A06" dirTag="a_inbound" epochTime="1551751412743" isDeparture="false" minutes="0" seconds="56" vehicle="4186" />
+  <prediction block="A07" dirTag="a_inbound" epochTime="1551751501172" isDeparture="false" minutes="2" seconds="145" vehicle="1496" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="hillw" stopTitle="Hill Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="stuactcntr" stopTitle="Student Activities Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="a" routeTitle="A" stopTag="busch_a" stopTitle="Busch Student Center">
+  <direction title="To Busch Student Center">
+  <prediction block="A07" dirTag="a_outbound" epochTime="1551751421347" isDeparture="false" minutes="1" seconds="65" vehicle="1496" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Busch Student Center" routeTag="a" routeTitle="A" stopTag="science" stopTitle="Science Building">
+</predictions>
+</route_prediction><route_prediction route="B" time="2019-03-04 21:02:40.464151"><predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="beck" stopTitle="Livingston Plaza">
+  <direction title="To Livingston Student Center">
+  <prediction affectedByLayover="true" block="B08" dirTag="b_inbound" epochTime="1551751879521" isDeparture="false" minutes="8" seconds="523" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_inbound" epochTime="1551753679521" isDeparture="false" minutes="38" seconds="2323" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_inbound" epochTime="1551755479521" isDeparture="false" minutes="68" seconds="4123" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_inbound" epochTime="1551757279521" isDeparture="false" minutes="98" seconds="5923" vehicle="4189" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="buschse" stopTitle="Busch Suites">
+  <direction title="To Busch Student Center">
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551752985814" isDeparture="false" minutes="27" seconds="1629" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551754785814" isDeparture="false" minutes="57" seconds="3429" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551756585814" isDeparture="false" minutes="87" seconds="5229" vehicle="4189" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="hillw" stopTitle="Hill Center">
+  <direction title="To Busch Student Center">
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551752687618" isDeparture="false" minutes="22" seconds="1331" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551754487618" isDeparture="false" minutes="52" seconds="3131" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551756287618" isDeparture="false" minutes="82" seconds="4931" vehicle="4189" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="science" stopTitle="Science Building">
+  <direction title="To Busch Student Center">
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551752779885" isDeparture="false" minutes="23" seconds="1423" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551754579885" isDeparture="false" minutes="53" seconds="3223" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551756379885" isDeparture="false" minutes="83" seconds="5023" vehicle="4189" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="busch_a" stopTitle="Busch Student Center">
+  <direction title="To Busch Student Center">
+  <prediction block="B08" dirTag="b_outbound" epochTime="1551751370505" isDeparture="false" minutes="0" seconds="14" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551753093444" isDeparture="false" minutes="28" seconds="1737" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551754893444" isDeparture="false" minutes="58" seconds="3537" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551756693444" isDeparture="false" minutes="88" seconds="5337" vehicle="4189" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="werblinback" stopTitle="Werblin Back Entrance">
+  <direction title="To Busch Student Center">
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551752627587" isDeparture="false" minutes="21" seconds="1271" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551754427587" isDeparture="false" minutes="51" seconds="3071" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551756227587" isDeparture="false" minutes="81" seconds="4871" vehicle="4189" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="quads" stopTitle="Quads">
+  <direction title="To Busch Student Center">
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551752214951" isDeparture="false" minutes="14" seconds="858" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551754014951" isDeparture="false" minutes="44" seconds="2658" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551755814951" isDeparture="false" minutes="74" seconds="4458" vehicle="4189" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="livingston_a" stopTitle="Livingston Student Center">
+  <direction title="To Livingston Student Center">
+  <prediction affectedByLayover="true" block="B08" dirTag="b_inbound" epochTime="1551751947359" isDeparture="false" minutes="9" seconds="591" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_inbound" epochTime="1551753747359" isDeparture="false" minutes="39" seconds="2391" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_inbound" epochTime="1551755547359" isDeparture="false" minutes="69" seconds="4191" vehicle="4189" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="b" routeTitle="B" stopTag="libofsci" stopTitle="Library of Science">
+  <direction title="To Busch Student Center">
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551752850697" isDeparture="false" minutes="24" seconds="1494" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551754650697" isDeparture="false" minutes="54" seconds="3294" vehicle="4189" />
+  <prediction affectedByLayover="true" block="B08" dirTag="b_outbound" epochTime="1551756450697" isDeparture="false" minutes="84" seconds="5094" vehicle="4189" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="C" time="2019-03-04 21:02:40.623366"><predictions agencyTitle="Rutgers University" routeTag="c" routeTitle="C" stopTag="hilln" stopTitle="Hill Center">
+  <direction title="To Stadium West Lot">
+  <prediction block="C02" dirTag="c_inbound" epochTime="1551751368713" isDeparture="false" minutes="0" seconds="12" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551752041625" isDeparture="false" minutes="11" seconds="685" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551752761625" isDeparture="false" minutes="23" seconds="1405" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551753481625" isDeparture="false" minutes="35" seconds="2125" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551754201625" isDeparture="false" minutes="47" seconds="2845" vehicle="4212" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="c" routeTitle="C" stopTag="stadium_a" stopTitle="Stadium">
+  <direction title="To Stadium West Lot">
+  <prediction block="C02" dirTag="c_inbound" epochTime="1551751526731" isDeparture="false" minutes="2" seconds="170" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551752199643" isDeparture="false" minutes="14" seconds="843" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551752919643" isDeparture="false" minutes="26" seconds="1563" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551753639643" isDeparture="false" minutes="38" seconds="2283" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551754359643" isDeparture="false" minutes="50" seconds="3003" vehicle="4212" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="c" routeTitle="C" stopTag="allison" stopTitle="Allison Road Classrooms">
+  <direction title="To Stadium West Lot">
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551751980000" isDeparture="true" minutes="10" seconds="623" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551752700000" isDeparture="true" minutes="22" seconds="1343" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551753420000" isDeparture="true" minutes="34" seconds="2063" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551754140000" isDeparture="true" minutes="46" seconds="2783" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_inbound" epochTime="1551754699954" isDeparture="true" minutes="55" seconds="3343" vehicle="4212" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="c" routeTitle="C" stopTag="werblinback" stopTitle="Werblin Back Entrance">
+  <direction title="To Allison Road Classrooms">
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551751661600" isDeparture="false" minutes="5" seconds="305" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551752381600" isDeparture="false" minutes="17" seconds="1025" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551753101600" isDeparture="false" minutes="29" seconds="1745" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551753821600" isDeparture="false" minutes="41" seconds="2465" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551754541600" isDeparture="false" minutes="53" seconds="3185" vehicle="4212" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="c" routeTitle="C" stopTag="hillw" stopTitle="Hill Center">
+  <direction title="To Allison Road Classrooms">
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551751714784" isDeparture="false" minutes="5" seconds="358" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551752434784" isDeparture="false" minutes="17" seconds="1078" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551753154784" isDeparture="false" minutes="29" seconds="1798" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551753874784" isDeparture="false" minutes="41" seconds="2518" vehicle="4212" />
+  <prediction affectedByLayover="true" block="C02" dirTag="c_outbound" epochTime="1551754594784" isDeparture="false" minutes="53" seconds="3238" vehicle="4212" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="EE" time="2019-03-04 21:02:40.794889"><predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="lipman" stopTitle="Lipman Hall">
+  <direction title="To Henderson Apartments">
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551752098400" isDeparture="false" minutes="12" seconds="741" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551752998400" isDeparture="false" minutes="27" seconds="1641" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551753898400" isDeparture="false" minutes="42" seconds="2541" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551754798400" isDeparture="false" minutes="57" seconds="3441" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551755698400" isDeparture="false" minutes="72" seconds="4341" vehicle="4199" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="zimmerli" stopTitle="Zimmerli Arts Museum">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE08" dirTag="ee_inbound" epochTime="1551751417351" isDeparture="false" minutes="1" seconds="60" vehicle="4199" />
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551752239503" isDeparture="false" minutes="14" seconds="883" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551753047523" isDeparture="false" minutes="28" seconds="1691" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753947523" isDeparture="false" minutes="43" seconds="2591" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754847523" isDeparture="false" minutes="58" seconds="3491" vehicle="4192" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="patersons" stopTitle="Paterson Street">
+  <direction title="To Henderson Apartments">
+  <prediction block="EE20" dirTag="ee_outbound" epochTime="1551751569635" isDeparture="false" minutes="3" seconds="213" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551752413327" isDeparture="false" minutes="17" seconds="1056" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551753313327" isDeparture="false" minutes="32" seconds="1956" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551754213327" isDeparture="false" minutes="47" seconds="2856" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551755113327" isDeparture="false" minutes="62" seconds="3756" vehicle="4199" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="rockoff" stopTitle="Rockoff Hall">
+  <direction title="To Henderson Apartments">
+  <prediction block="EE20" dirTag="ee_outbound" epochTime="1551751682727" isDeparture="false" minutes="5" seconds="326" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551752526419" isDeparture="false" minutes="19" seconds="1170" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551753426419" isDeparture="false" minutes="34" seconds="2070" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551754326419" isDeparture="false" minutes="49" seconds="2970" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551755226419" isDeparture="false" minutes="64" seconds="3870" vehicle="4199" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="pubsafn" stopTitle="Public Safety Building North">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551751895782" isDeparture="false" minutes="8" seconds="539" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551752703802" isDeparture="false" minutes="22" seconds="1347" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753603802" isDeparture="false" minutes="37" seconds="2247" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754503802" isDeparture="false" minutes="52" seconds="3147" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551755403802" isDeparture="false" minutes="67" seconds="4047" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="rutgerss_a" stopTitle="College Avenue Student Center">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE08" dirTag="ee_inbound" epochTime="1551751667847" isDeparture="false" minutes="5" seconds="311" vehicle="4199" />
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551752489999" isDeparture="false" minutes="18" seconds="1133" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551753298019" isDeparture="false" minutes="32" seconds="1941" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551754198019" isDeparture="false" minutes="47" seconds="2841" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551755098019" isDeparture="false" minutes="62" seconds="3741" vehicle="4192" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="stuactcntr" stopTitle="Student Activities Center">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE08" dirTag="ee_inbound" epochTime="1551751499058" isDeparture="false" minutes="2" seconds="142" vehicle="4199" />
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551752321210" isDeparture="false" minutes="16" seconds="964" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551753129230" isDeparture="false" minutes="29" seconds="1772" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551754029230" isDeparture="false" minutes="44" seconds="2672" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754929230" isDeparture="false" minutes="59" seconds="3572" vehicle="4192" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="trainn_a" stopTitle="Train Station">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551752178249" isDeparture="false" minutes="13" seconds="821" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551752986269" isDeparture="false" minutes="27" seconds="1629" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753886269" isDeparture="false" minutes="42" seconds="2529" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754786269" isDeparture="false" minutes="57" seconds="3429" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551755686269" isDeparture="false" minutes="72" seconds="4329" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="henders" stopTitle="Henderson">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551751513948" isDeparture="false" minutes="2" seconds="157" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551752321968" isDeparture="false" minutes="16" seconds="965" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753221968" isDeparture="false" minutes="31" seconds="1865" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754121968" isDeparture="false" minutes="46" seconds="2765" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551755021968" isDeparture="false" minutes="61" seconds="3665" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="pubsafs" stopTitle="Public Safety Building South">
+  <direction title="To Henderson Apartments">
+  <prediction block="EE20" dirTag="ee_outbound" epochTime="1551751802629" isDeparture="false" minutes="7" seconds="446" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551752646321" isDeparture="false" minutes="21" seconds="1289" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551753546321" isDeparture="false" minutes="36" seconds="2189" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551754446321" isDeparture="false" minutes="51" seconds="3089" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551755346321" isDeparture="false" minutes="66" seconds="3989" vehicle="4199" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="foodsci" stopTitle="Food Sciences Building">
+  <direction title="To Henderson Apartments">
+  <prediction block="EE19" dirTag="ee_outbound" epochTime="1551751360340" isDeparture="false" minutes="0" seconds="3" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551752168360" isDeparture="false" minutes="13" seconds="811" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551753068360" isDeparture="false" minutes="28" seconds="1711" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551753968360" isDeparture="false" minutes="43" seconds="2611" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551754868360" isDeparture="false" minutes="58" seconds="3511" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="traine" stopTitle="Train Station">
+  <direction title="To Henderson Apartments">
+  <prediction block="EE20" dirTag="ee_outbound" epochTime="1551751454462" isDeparture="false" minutes="1" seconds="98" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551752298154" isDeparture="false" minutes="15" seconds="941" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551753198154" isDeparture="false" minutes="30" seconds="1841" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551754098154" isDeparture="false" minutes="45" seconds="2741" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551754998154" isDeparture="false" minutes="60" seconds="3641" vehicle="4199" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="college_a" stopTitle="College Hall">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551751790336" isDeparture="false" minutes="7" seconds="433" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551752598356" isDeparture="false" minutes="20" seconds="1241" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753498356" isDeparture="false" minutes="35" seconds="2141" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754398356" isDeparture="false" minutes="50" seconds="3041" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551755298356" isDeparture="false" minutes="65" seconds="3941" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="biel" stopTitle="Biel Road">
+  <direction title="To Henderson Apartments">
+  <prediction block="EE19" dirTag="ee_outbound" epochTime="1551751426799" isDeparture="false" minutes="1" seconds="70" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551752234819" isDeparture="false" minutes="14" seconds="878" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551753134819" isDeparture="false" minutes="29" seconds="1778" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551754034819" isDeparture="false" minutes="44" seconds="2678" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551754934819" isDeparture="false" minutes="59" seconds="3578" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="liberty" stopTitle="Liberty Street">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551752030471" isDeparture="false" minutes="11" seconds="674" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551752838491" isDeparture="false" minutes="24" seconds="1482" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753738491" isDeparture="false" minutes="39" seconds="2382" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754638491" isDeparture="false" minutes="54" seconds="3282" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551755538491" isDeparture="false" minutes="69" seconds="4182" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="gibbons" stopTitle="Gibbons">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551751665987" isDeparture="false" minutes="5" seconds="309" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551752474007" isDeparture="false" minutes="18" seconds="1117" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753374007" isDeparture="false" minutes="33" seconds="2017" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754274007" isDeparture="false" minutes="48" seconds="2917" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551755174007" isDeparture="false" minutes="63" seconds="3817" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="scott" stopTitle="Scott Hall">
+  <direction title="To Henderson Apartments">
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551752186290" isDeparture="false" minutes="13" seconds="829" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551753086290" isDeparture="false" minutes="28" seconds="1729" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551753986290" isDeparture="false" minutes="43" seconds="2629" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551754886290" isDeparture="false" minutes="58" seconds="3529" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551755786290" isDeparture="false" minutes="73" seconds="4429" vehicle="4192" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="katzenbach" stopTitle="Katzenbach">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551751580727" isDeparture="false" minutes="3" seconds="224" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551752388747" isDeparture="false" minutes="17" seconds="1032" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753288747" isDeparture="false" minutes="32" seconds="1932" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754188747" isDeparture="false" minutes="47" seconds="2832" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551755088747" isDeparture="false" minutes="62" seconds="3732" vehicle="4193" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="redoak_a" stopTitle="Red Oak Lane">
+  <direction title="To Henderson Apartments">
+  <prediction block="EE20" dirTag="ee_outbound" epochTime="1551751953521" isDeparture="false" minutes="9" seconds="597" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551752797213" isDeparture="false" minutes="24" seconds="1440" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_outbound" epochTime="1551753697213" isDeparture="false" minutes="39" seconds="2340" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_outbound" epochTime="1551754597213" isDeparture="false" minutes="54" seconds="3240" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_outbound" epochTime="1551755497213" isDeparture="false" minutes="69" seconds="4140" vehicle="4199" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="ee" routeTitle="EE" stopTag="patersonn" stopTitle="Paterson Street">
+  <direction title="To College Avenue Student Center">
+  <prediction block="EE19" dirTag="ee_inbound" epochTime="1551752106723" isDeparture="false" minutes="12" seconds="750" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551752914743" isDeparture="false" minutes="25" seconds="1558" vehicle="4193" />
+  <prediction affectedByLayover="true" block="EE08" dirTag="ee_inbound" epochTime="1551753814743" isDeparture="false" minutes="40" seconds="2458" vehicle="4199" />
+  <prediction affectedByLayover="true" block="EE19" dirTag="ee_inbound" epochTime="1551754714743" isDeparture="false" minutes="55" seconds="3358" vehicle="4192" />
+  <prediction affectedByLayover="true" block="EE20" dirTag="ee_inbound" epochTime="1551755614743" isDeparture="false" minutes="70" seconds="4258" vehicle="4193" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="F" time="2019-03-04 21:02:40.980027"><predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="redoak" stopTitle="Red Oak Lane">
+  <direction title="To Henderson Apartments">
+  <prediction affectedByLayover="true" block="F10" dirTag="f_outbound" epochTime="1551751558330" isDeparture="true" minutes="3" seconds="201" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_outbound" epochTime="1551751860000" isDeparture="true" minutes="8" seconds="503" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="rutgerss_a" stopTitle="College Avenue Student Center">
+  <direction title="To College Avenue Student Center">
+  <prediction block="F08" dirTag="f_inbound" epochTime="1551751866554" isDeparture="false" minutes="8" seconds="509" vehicle="708-R" />
+  <prediction affectedByLayover="true" block="F10" dirTag="f_inbound" epochTime="1551752740963" isDeparture="false" minutes="23" seconds="1384" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_inbound" epochTime="1551753042633" isDeparture="false" minutes="28" seconds="1686" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="gibbons" stopTitle="Gibbons">
+  <direction title="To College Avenue Student Center">
+  <prediction affectedByLayover="true" block="F10" dirTag="f_inbound" epochTime="1551752031856" isDeparture="false" minutes="11" seconds="675" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_inbound" epochTime="1551752333526" isDeparture="false" minutes="16" seconds="976" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="biel" stopTitle="Biel Road">
+  <direction title="To Henderson Apartments">
+  <prediction affectedByLayover="true" block="F10" dirTag="f_outbound" epochTime="1551751778420" isDeparture="false" minutes="7" seconds="421" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_outbound" epochTime="1551752080090" isDeparture="false" minutes="12" seconds="723" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Henderson Apartments" routeTag="f" routeTitle="F" stopTag="scott" stopTitle="Scott Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="katzenbach" stopTitle="Katzenbach">
+  <direction title="To College Avenue Student Center">
+  <prediction affectedByLayover="true" block="F10" dirTag="f_inbound" epochTime="1551751943926" isDeparture="false" minutes="9" seconds="587" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_inbound" epochTime="1551752245596" isDeparture="false" minutes="14" seconds="889" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="lipman" stopTitle="Lipman Hall">
+  <direction title="To Henderson Apartments">
+  <prediction affectedByLayover="true" block="F10" dirTag="f_outbound" epochTime="1551751621179" isDeparture="false" minutes="4" seconds="264" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_outbound" epochTime="1551751922849" isDeparture="false" minutes="9" seconds="566" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="pubsafs" stopTitle="Public Safety Building South">
+  <direction title="To Henderson Apartments">
+  <prediction block="F10" dirTag="f_outbound" epochTime="1551751384079" isDeparture="false" minutes="0" seconds="27" vehicle="4197" />
+  <prediction block="F11" dirTag="f_outbound" epochTime="1551751629995" isDeparture="false" minutes="4" seconds="273" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="stuactcntr" stopTitle="Student Activities Center">
+  <direction title="To College Avenue Student Center">
+  <prediction block="F08" dirTag="f_inbound" epochTime="1551751646204" isDeparture="false" minutes="4" seconds="289" vehicle="708-R" />
+  <prediction affectedByLayover="true" block="F10" dirTag="f_inbound" epochTime="1551752520613" isDeparture="false" minutes="19" seconds="1164" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_inbound" epochTime="1551752822283" isDeparture="false" minutes="24" seconds="1465" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="college_a" stopTitle="College Hall">
+  <direction title="To College Avenue Student Center">
+  <prediction affectedByLayover="true" block="F10" dirTag="f_inbound" epochTime="1551752158699" isDeparture="false" minutes="13" seconds="802" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_inbound" epochTime="1551752460369" isDeparture="false" minutes="18" seconds="1103" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="henders" stopTitle="Henderson">
+  <direction title="To College Avenue Student Center">
+  <prediction affectedByLayover="true" block="F10" dirTag="f_inbound" epochTime="1551751870727" isDeparture="false" minutes="8" seconds="514" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_inbound" epochTime="1551752172397" isDeparture="false" minutes="13" seconds="815" vehicle="4184" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="f" routeTitle="F" stopTag="foodsci" stopTitle="Food Sciences Building">
+  <direction title="To Henderson Apartments">
+  <prediction affectedByLayover="true" block="F10" dirTag="f_outbound" epochTime="1551751702419" isDeparture="false" minutes="5" seconds="345" vehicle="4197" />
+  <prediction affectedByLayover="true" block="F11" dirTag="f_outbound" epochTime="1551752004089" isDeparture="false" minutes="10" seconds="647" vehicle="4184" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="LX" time="2019-03-04 21:02:41.149955"><predictions agencyTitle="Rutgers University" routeTag="lx" routeTitle="LX" stopTag="traine" stopTitle="Train Station">
+  <direction title="To Livingston Student Center">
+  <prediction affectedByLayover="true" block="LX16" dirTag="lx_inbound" epochTime="1551753125750" isDeparture="false" minutes="29" seconds="1768" vehicle="4203" />
+  <prediction affectedByLayover="true" block="LX17" dirTag="lx_inbound" epochTime="1551753605750" isDeparture="false" minutes="37" seconds="2248" vehicle="4182" />
+  <prediction affectedByLayover="true" block="LX13" dirTag="lx_inbound" epochTime="1551754085750" isDeparture="false" minutes="45" seconds="2728" vehicle="1504" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_inbound" epochTime="1551754565750" isDeparture="false" minutes="53" seconds="3208" vehicle="4194" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_inbound" epochTime="1551754565750" isDeparture="false" minutes="53" seconds="3208" vehicle="4180" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="lx" routeTitle="LX" stopTag="scott" stopTitle="Scott Hall">
+  <direction title="To Livingston Student Center">
+  <prediction affectedByLayover="true" block="LX17" dirTag="lx_inbound" epochTime="1551751745425" isDeparture="false" minutes="6" seconds="388" vehicle="4182" />
+  <prediction affectedByLayover="true" block="LX13" dirTag="lx_inbound" epochTime="1551752180578" isDeparture="false" minutes="13" seconds="823" vehicle="1504" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_inbound" epochTime="1551752660578" isDeparture="false" minutes="21" seconds="1303" vehicle="4194" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_inbound" epochTime="1551752660578" isDeparture="false" minutes="21" seconds="1303" vehicle="4180" />
+  <prediction affectedByLayover="true" block="LX16" dirTag="lx_inbound" epochTime="1551753020578" isDeparture="false" minutes="27" seconds="1663" vehicle="4203" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="lx" routeTitle="LX" stopTag="beck" stopTitle="Livingston Plaza">
+  <direction title="To Livingston Student Center">
+  <prediction block="LX15" dirTag="lx_inbound" epochTime="1551751456420" isDeparture="false" minutes="1" seconds="99" vehicle="4194" />
+  <prediction block="LX16" dirTag="lx_inbound" epochTime="1551751841073" isDeparture="false" minutes="8" seconds="484" vehicle="4203" />
+  <prediction affectedByLayover="true" block="LX17" dirTag="lx_inbound" epochTime="1551752349540" isDeparture="false" minutes="16" seconds="992" vehicle="4182" />
+  <prediction affectedByLayover="true" block="LX13" dirTag="lx_inbound" epochTime="1551752784693" isDeparture="false" minutes="23" seconds="1427" vehicle="1504" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_inbound" epochTime="1551753264693" isDeparture="false" minutes="31" seconds="1907" vehicle="4180" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="lx" routeTitle="LX" stopTag="quads" stopTitle="Quads">
+  <direction title="To College Avenue Student Center">
+  <prediction affectedByLayover="true" block="LX13" dirTag="lx_outbound" epochTime="1551751451461" isDeparture="false" minutes="1" seconds="94" vehicle="1504" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_outbound" epochTime="1551751921390" isDeparture="false" minutes="9" seconds="564" vehicle="4180" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_outbound" epochTime="1551751921390" isDeparture="false" minutes="9" seconds="564" vehicle="4194" />
+  <prediction affectedByLayover="true" block="LX16" dirTag="lx_outbound" epochTime="1551752281390" isDeparture="false" minutes="15" seconds="924" vehicle="4203" />
+  <prediction affectedByLayover="true" block="LX17" dirTag="lx_outbound" epochTime="1551752761390" isDeparture="false" minutes="23" seconds="1404" vehicle="4182" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="lx" routeTitle="LX" stopTag="livingston_a" stopTitle="Livingston Student Center">
+  <direction title="To Livingston Student Center">
+  <prediction block="LX15" dirTag="lx_inbound" epochTime="1551751390447" isDeparture="false" minutes="0" seconds="33" vehicle="4180" />
+  <prediction block="LX15" dirTag="lx_inbound" epochTime="1551751525483" isDeparture="false" minutes="2" seconds="168" vehicle="4194" />
+  <prediction block="LX16" dirTag="lx_inbound" epochTime="1551751910136" isDeparture="false" minutes="9" seconds="553" vehicle="4203" />
+  <prediction affectedByLayover="true" block="LX17" dirTag="lx_inbound" epochTime="1551752418603" isDeparture="false" minutes="17" seconds="1061" vehicle="4182" />
+  <prediction affectedByLayover="true" block="LX13" dirTag="lx_inbound" epochTime="1551752853756" isDeparture="false" minutes="24" seconds="1497" vehicle="1504" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="lx" routeTitle="LX" stopTag="stuactcntr" stopTitle="Student Activities Center">
+  <direction title="To Livingston Student Center">
+  <prediction block="LX16" dirTag="lx_inbound" epochTime="1551751497929" isDeparture="false" minutes="2" seconds="141" vehicle="4203" />
+  <prediction affectedByLayover="true" block="LX17" dirTag="lx_inbound" epochTime="1551752006396" isDeparture="false" minutes="10" seconds="649" vehicle="4182" />
+  <prediction affectedByLayover="true" block="LX13" dirTag="lx_inbound" epochTime="1551752441549" isDeparture="false" minutes="18" seconds="1084" vehicle="1504" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_inbound" epochTime="1551752921549" isDeparture="false" minutes="26" seconds="1564" vehicle="4194" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_inbound" epochTime="1551752921549" isDeparture="false" minutes="26" seconds="1564" vehicle="4180" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="lx" routeTitle="LX" stopTag="rutgerss_a" stopTitle="College Avenue Student Center">
+  <direction title="To College Avenue Student Center">
+  <prediction block="LX17" dirTag="lx_outbound" epochTime="1551751644927" isDeparture="false" minutes="4" seconds="288" vehicle="4182" />
+  <prediction affectedByLayover="true" block="LX13" dirTag="lx_outbound" epochTime="1551751947835" isDeparture="false" minutes="9" seconds="591" vehicle="1504" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_outbound" epochTime="1551752417764" isDeparture="false" minutes="17" seconds="1061" vehicle="4180" />
+  <prediction affectedByLayover="true" block="LX15" dirTag="lx_outbound" epochTime="1551752417764" isDeparture="false" minutes="17" seconds="1061" vehicle="4194" />
+  <prediction affectedByLayover="true" block="LX16" dirTag="lx_outbound" epochTime="1551752777764" isDeparture="false" minutes="23" seconds="1421" vehicle="4203" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="REX B" time="2019-03-04 21:02:41.313017"><predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="hillw" stopTitle="Hill Center">
+  <direction title="To Allison Road Classrooms">
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551752290828" isDeparture="false" minutes="15" seconds="933" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551752830828" isDeparture="false" minutes="24" seconds="1473" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_outbound" epochTime="1551753370828" isDeparture="false" minutes="33" seconds="2013" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551754450828" isDeparture="false" minutes="51" seconds="3093" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551754990828" isDeparture="false" minutes="60" seconds="3633" vehicle="4191" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="hilln" stopTitle="Hill Center">
+  <direction title="To College Hall">
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_inbound" epochTime="1551751443807" isDeparture="false" minutes="1" seconds="86" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_inbound" epochTime="1551752523807" isDeparture="false" minutes="19" seconds="1166" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_inbound" epochTime="1551753063807" isDeparture="false" minutes="28" seconds="1706" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_inbound" epochTime="1551753603807" isDeparture="false" minutes="37" seconds="2246" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_inbound" epochTime="1551754683807" isDeparture="false" minutes="55" seconds="3326" vehicle="4176" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="pubsafs" stopTitle="Public Safety Building South">
+  <direction title="To College Hall">
+  <prediction block="XB07" dirTag="rexb_inbound" epochTime="1551751474420" isDeparture="false" minutes="1" seconds="117" vehicle="4191" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="lipman" stopTitle="Lipman Hall">
+  <direction title="To Allison Road Classrooms">
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551751448538" isDeparture="false" minutes="1" seconds="91" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551751988538" isDeparture="false" minutes="10" seconds="631" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_outbound" epochTime="1551752528538" isDeparture="false" minutes="19" seconds="1171" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551753608538" isDeparture="false" minutes="37" seconds="2251" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551754148538" isDeparture="false" minutes="46" seconds="2791" vehicle="4191" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="college_a" stopTitle="College Hall">
+  <direction title="To Allison Road Classrooms">
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551751632731" isDeparture="false" minutes="4" seconds="275" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551752172731" isDeparture="false" minutes="13" seconds="815" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_outbound" epochTime="1551752712731" isDeparture="false" minutes="22" seconds="1355" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551753792731" isDeparture="false" minutes="40" seconds="2435" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551754332731" isDeparture="false" minutes="49" seconds="2975" vehicle="4191" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="allison_a" stopTitle="Allison Road Classrooms">
+  <direction title="To Allison Road Classrooms">
+  <prediction block="XB04" dirTag="rexb_outbound" epochTime="1551751375188" isDeparture="false" minutes="0" seconds="18" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551752443344" isDeparture="false" minutes="18" seconds="1086" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551752983344" isDeparture="false" minutes="27" seconds="1626" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_outbound" epochTime="1551753523344" isDeparture="false" minutes="36" seconds="2166" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551754603344" isDeparture="false" minutes="54" seconds="3246" vehicle="4176" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="rockhall" stopTitle="Rockoff Hall">
+  <direction title="To College Hall">
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_inbound" epochTime="1551751868782" isDeparture="false" minutes="8" seconds="511" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_inbound" epochTime="1551752948782" isDeparture="false" minutes="26" seconds="1591" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_inbound" epochTime="1551753488782" isDeparture="false" minutes="35" seconds="2131" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_inbound" epochTime="1551754028782" isDeparture="false" minutes="44" seconds="2671" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_inbound" epochTime="1551755108782" isDeparture="false" minutes="62" seconds="3751" vehicle="4176" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="newstree" stopTitle="Bravo Supermarket">
+  <direction title="To Allison Road Classrooms">
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551751804818" isDeparture="false" minutes="7" seconds="447" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551752344818" isDeparture="false" minutes="16" seconds="987" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_outbound" epochTime="1551752884818" isDeparture="false" minutes="25" seconds="1527" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_outbound" epochTime="1551753964818" isDeparture="false" minutes="43" seconds="2607" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_outbound" epochTime="1551754504818" isDeparture="false" minutes="52" seconds="3147" vehicle="4191" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexb" routeTitle="REX B" stopTag="redoak_a" stopTitle="Red Oak Lane">
+  <direction title="To College Hall">
+  <prediction block="XB07" dirTag="rexb_inbound" epochTime="1551751635065" isDeparture="false" minutes="4" seconds="278" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_inbound" epochTime="1551752148558" isDeparture="false" minutes="13" seconds="791" vehicle="4207" />
+  <prediction affectedByLayover="true" block="XB06" dirTag="rexb_inbound" epochTime="1551753228558" isDeparture="false" minutes="31" seconds="1871" vehicle="4176" />
+  <prediction affectedByLayover="true" block="XB07" dirTag="rexb_inbound" epochTime="1551753768558" isDeparture="false" minutes="40" seconds="2411" vehicle="4191" />
+  <prediction affectedByLayover="true" block="XB04" dirTag="rexb_inbound" epochTime="1551754308558" isDeparture="false" minutes="49" seconds="2951" vehicle="4207" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="REX L" time="2019-03-04 21:02:41.421780"><predictions agencyTitle="Rutgers University" routeTag="rexl" routeTitle="REX L" stopTag="newstree" stopTitle="Bravo Supermarket">
+  <direction title="To Livingston Student Center">
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551752091987" isDeparture="false" minutes="12" seconds="734" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_outbound" epochTime="1551752590378" isDeparture="false" minutes="20" seconds="1233" vehicle="4204" />
+  <prediction affectedByLayover="true" block="XL07" dirTag="rexl_outbound" epochTime="1551753426546" isDeparture="false" minutes="34" seconds="2069" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551754210378" isDeparture="false" minutes="47" seconds="2853" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_outbound" epochTime="1551754750378" isDeparture="false" minutes="56" seconds="3393" vehicle="4204" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexl" routeTitle="REX L" stopTag="pubsafs" stopTitle="Public Safety Building South">
+  <direction title="To College Hall">
+  <prediction block="XL08" dirTag="rexl_inbound" epochTime="1551751495531" isDeparture="false" minutes="2" seconds="138" vehicle="4202" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexl" routeTitle="REX L" stopTag="beck" stopTitle="Livingston Plaza">
+  <direction title="To Livingston Student Center">
+  <prediction block="XL07" dirTag="rexl_outbound" epochTime="1551751920139" isDeparture="false" minutes="9" seconds="563" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551752585934" isDeparture="false" minutes="20" seconds="1228" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_outbound" epochTime="1551753084325" isDeparture="false" minutes="28" seconds="1727" vehicle="4204" />
+  <prediction affectedByLayover="true" block="XL07" dirTag="rexl_outbound" epochTime="1551753920493" isDeparture="false" minutes="42" seconds="2563" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551754704325" isDeparture="false" minutes="55" seconds="3347" vehicle="4202" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexl" routeTitle="REX L" stopTag="livingston_a" stopTitle="Livingston Student Center">
+  <direction title="To Livingston Student Center">
+  <prediction block="XL07" dirTag="rexl_outbound" epochTime="1551751989405" isDeparture="false" minutes="10" seconds="632" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551752655200" isDeparture="false" minutes="21" seconds="1298" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_outbound" epochTime="1551753153591" isDeparture="false" minutes="29" seconds="1796" vehicle="4204" />
+  <prediction affectedByLayover="true" block="XL07" dirTag="rexl_outbound" epochTime="1551753989759" isDeparture="false" minutes="43" seconds="2632" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551754773591" isDeparture="false" minutes="56" seconds="3416" vehicle="4202" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexl" routeTitle="REX L" stopTag="redoak_a" stopTitle="Red Oak Lane">
+  <direction title="To College Hall">
+  <prediction block="XL08" dirTag="rexl_inbound" epochTime="1551751655689" isDeparture="false" minutes="4" seconds="298" vehicle="4202" />
+  <prediction block="XL06" dirTag="rexl_inbound" epochTime="1551752069689" isDeparture="false" minutes="11" seconds="712" vehicle="4204" />
+  <prediction affectedByLayover="true" block="XL07" dirTag="rexl_inbound" epochTime="1551752990248" isDeparture="false" minutes="27" seconds="1633" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_inbound" epochTime="1551753677758" isDeparture="false" minutes="38" seconds="2320" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_inbound" epochTime="1551754217758" isDeparture="false" minutes="47" seconds="2860" vehicle="4204" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexl" routeTitle="REX L" stopTag="rockhall" stopTitle="Rockoff Hall">
+  <direction title="To College Hall">
+  <prediction block="XL06" dirTag="rexl_inbound" epochTime="1551751788582" isDeparture="false" minutes="7" seconds="431" vehicle="4204" />
+  <prediction affectedByLayover="true" block="XL07" dirTag="rexl_inbound" epochTime="1551752709141" isDeparture="false" minutes="22" seconds="1352" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_inbound" epochTime="1551753396651" isDeparture="false" minutes="33" seconds="2039" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_inbound" epochTime="1551753936651" isDeparture="false" minutes="42" seconds="2579" vehicle="4204" />
+  <prediction affectedByLayover="true" block="XL07" dirTag="rexl_inbound" epochTime="1551754709495" isDeparture="false" minutes="55" seconds="3352" vehicle="4178" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexl" routeTitle="REX L" stopTag="college_a" stopTitle="College Hall">
+  <direction title="To Livingston Student Center">
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551751928610" isDeparture="false" minutes="9" seconds="571" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_outbound" epochTime="1551752427001" isDeparture="false" minutes="17" seconds="1069" vehicle="4204" />
+  <prediction affectedByLayover="true" block="XL07" dirTag="rexl_outbound" epochTime="1551753263169" isDeparture="false" minutes="31" seconds="1906" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551754047001" isDeparture="false" minutes="44" seconds="2689" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_outbound" epochTime="1551754587001" isDeparture="false" minutes="53" seconds="3229" vehicle="4204" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="rexl" routeTitle="REX L" stopTag="lipman" stopTitle="Lipman Hall">
+  <direction title="To Livingston Student Center">
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551751733904" isDeparture="false" minutes="6" seconds="376" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_outbound" epochTime="1551752232295" isDeparture="false" minutes="14" seconds="875" vehicle="4204" />
+  <prediction affectedByLayover="true" block="XL07" dirTag="rexl_outbound" epochTime="1551753068463" isDeparture="false" minutes="28" seconds="1711" vehicle="4178" />
+  <prediction affectedByLayover="true" block="XL08" dirTag="rexl_outbound" epochTime="1551753852295" isDeparture="false" minutes="41" seconds="2495" vehicle="4202" />
+  <prediction affectedByLayover="true" block="XL06" dirTag="rexl_outbound" epochTime="1551754392295" isDeparture="false" minutes="50" seconds="3035" vehicle="4204" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="New Brunsquick 1 Shuttle" time="2019-03-04 21:02:41.595802"><predictions agencyTitle="Rutgers University" routeTag="w1" routeTitle="New Brunsquick 1 Shuttle" stopTag="traine_a" stopTitle="Train Station">
+  <direction title="Loop">
+  <prediction block="W1S02" dirTag="loop" epochTime="1551751497715" isDeparture="false" minutes="2" seconds="140" vehicle="4281" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="w1" routeTitle="New Brunsquick 1 Shuttle" stopTag="scott" stopTitle="Scott Hall">
+  <direction title="Loop">
+  <prediction block="W1S02" dirTag="loop" epochTime="1551751396206" isDeparture="false" minutes="0" seconds="39" vehicle="4281" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="Loop" routeTag="w1" routeTitle="New Brunsquick 1 Shuttle" stopTag="colony" stopTitle="Colony House">
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="w1" routeTitle="New Brunsquick 1 Shuttle" stopTag="nursscho" stopTitle="Nursing School">
+  <direction title="Loop">
+  <prediction affectedByLayover="true" block="W1S02" dirTag="loop" epochTime="1551751645185" isDeparture="false" minutes="4" seconds="287" vehicle="4281" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="w1" routeTitle="New Brunsquick 1 Shuttle" stopTag="rutgerss_a" stopTitle="College Avenue Student Center">
+  <direction title="Loop">
+  <prediction affectedByLayover="true" block="W1S02" dirTag="loop" epochTime="1551752220092" isDeparture="false" minutes="14" seconds="862" vehicle="4281" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="New Brunsquick 2 Shuttle" time="2019-03-04 21:02:41.687257"><predictions agencyTitle="Rutgers University" routeTag="w2" routeTitle="New Brunsquick 2 Shuttle" stopTag="traine_a" stopTitle="Train Station">
+  <direction title="Loop">
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551751954851" isDeparture="false" minutes="9" seconds="597" vehicle="4280" />
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551753232284" isDeparture="false" minutes="31" seconds="1874" vehicle="4280" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="w2" routeTitle="New Brunsquick 2 Shuttle" stopTag="nursscho" stopTitle="Nursing School">
+  <direction title="Loop">
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551752145636" isDeparture="false" minutes="13" seconds="788" vehicle="4280" />
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551753423069" isDeparture="false" minutes="34" seconds="2065" vehicle="4280" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="w2" routeTitle="New Brunsquick 2 Shuttle" stopTag="zimmerli" stopTitle="Zimmerli Arts Museum">
+  <direction title="Loop">
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551752387109" isDeparture="false" minutes="17" seconds="1029" vehicle="4280" />
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551753664542" isDeparture="false" minutes="38" seconds="2307" vehicle="4280" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="Loop" routeTag="w2" routeTitle="New Brunsquick 2 Shuttle" stopTag="colony" stopTitle="Colony House">
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="w2" routeTitle="New Brunsquick 2 Shuttle" stopTag="rutgerss_a" stopTitle="College Avenue Student Center">
+  <direction title="Loop">
+  <prediction block="W2S02" dirTag="loop" epochTime="1551751365633" isDeparture="false" minutes="0" seconds="8" vehicle="4280" />
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551752643066" isDeparture="false" minutes="21" seconds="1285" vehicle="4280" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="w2" routeTitle="New Brunsquick 2 Shuttle" stopTag="trainn" stopTitle="Train Station">
+  <direction title="Loop">
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551752335487" isDeparture="false" minutes="16" seconds="978" vehicle="4280" />
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551753612920" isDeparture="false" minutes="37" seconds="2255" vehicle="4280" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Rutgers University" routeTag="w2" routeTitle="New Brunsquick 2 Shuttle" stopTag="stuactcntr" stopTitle="Student Activities Center">
+  <direction title="Loop">
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551752474620" isDeparture="false" minutes="18" seconds="1117" vehicle="4280" />
+  <prediction affectedByLayover="true" block="W2S02" dirTag="loop" epochTime="1551753752053" isDeparture="false" minutes="39" seconds="2394" vehicle="4280" />
+  </direction>
+</predictions>
+</route_prediction><route_prediction route="Weekend 1" time="2019-03-04 21:02:41.790435"><predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="science" stopTitle="Science Building">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="katzenbach" stopTitle="Katzenbach">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="busch" stopTitle="Busch Student Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="werblinback" stopTitle="Werblin Back Entrance">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="libofsciw" stopTitle="Library of Science">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="liberty" stopTitle="Liberty Street">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="trainn" stopTitle="Train Station">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="gibbons" stopTitle="Gibbons">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="pubsafn" stopTitle="Public Safety Building North">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="college" stopTitle="College Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="buschse" stopTitle="Busch Suites">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="scott" stopTitle="Scott Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="rutgerss" stopTitle="College Avenue Student Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="lipman" stopTitle="Lipman Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="pubsafs" stopTitle="Public Safety Building South">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="zimmerli_2" stopTitle="Zimmerli Arts Museum">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="biel" stopTitle="Biel Road">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="henders" stopTitle="Henderson">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="beck" stopTitle="Livingston Plaza">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="stuactcntr" stopTitle="Student Activities Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="stuactcntrn_2" stopTitle="Student Activities Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="foodsci" stopTitle="Food Sciences Building">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="redoak" stopTitle="Red Oak Lane">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="lot48a" stopTitle="Visitor Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="traine" stopTitle="Train Station">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="stuactcntrs" stopTitle="Student Activities Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="hillw" stopTitle="Hill Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="livingston" stopTitle="Livingston Student Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="quads" stopTitle="Quads">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd1" routeTitle="Weekend 1" stopTag="patersonn" stopTitle="Paterson Street">
+</predictions>
+</route_prediction><route_prediction route="Weekend 2" time="2019-03-04 21:02:41.894810"><predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="college" stopTitle="College Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="henders" stopTitle="Henderson">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="allison" stopTitle="Allison Road Classrooms">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="busch" stopTitle="Busch Student Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="rutgerss" stopTitle="College Avenue Student Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="davidson" stopTitle="Davidson Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="biel" stopTitle="Biel Road">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="redoak" stopTitle="Red Oak Lane">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="rockoff" stopTitle="Rockoff Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="katzenbach" stopTitle="Katzenbach">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="livingston" stopTitle="Livingston Student Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="scott" stopTitle="Scott Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="quads" stopTitle="Quads">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="lipman" stopTitle="Lipman Hall">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="foodsci" stopTitle="Food Sciences Building">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="gibbons" stopTitle="Gibbons">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="pubsafs" stopTitle="Public Safety Building South">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="traine" stopTitle="Train Station">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="stuactcntrn" stopTitle="Student Activities Center">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="patersons" stopTitle="Paterson Street">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To Livingston Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="beck" stopTitle="Livingston Plaza">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="libofsci" stopTitle="Library of Science">
+</predictions>
+<predictions agencyTitle="Rutgers University" dirTitleBecauseNoPredictions="To College Avenue Student Center" routeTag="wknd2" routeTitle="Weekend 2" stopTag="hilln" stopTitle="Hill Center">
+</predictions>
+</route_prediction></route_predictions>
